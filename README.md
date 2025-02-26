@@ -1,0 +1,1 @@
+# sindicato-del-software
