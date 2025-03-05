@@ -10,3 +10,9 @@
 
 ## Distributed Systems
 - [Consistent Hashing Explained](https://highscalability.com/consistent-hashing-algorithm/)
+
+## Would you work on this company?
+- [European Drone Manufacturer](https://helsing.ai/)
+
+## Which one is your favourite browser?
+- [Firefox starts selling data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
