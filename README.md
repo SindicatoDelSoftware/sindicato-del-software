@@ -16,3 +16,7 @@
 
 ## Which one is your favourite browser?
 - [Firefox starts selling data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
+
+## Have you ever heard the term EventStorming?
+- [Let's have a quick introduction](https://www.eventstorming.com/)
+
