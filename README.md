@@ -10,6 +10,7 @@
 
 ## Distributed Systems
 - [Consistent Hashing Explained](https://highscalability.com/consistent-hashing-algorithm/)
+- [All things distributed](https://www.allthingsdistributed.com/articles.html)
 
 ## Would you work on this company?
 - [European Drone Manufacturer](https://helsing.ai/)
